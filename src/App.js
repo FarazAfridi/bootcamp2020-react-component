@@ -5,7 +5,7 @@ import Card from './component/card.component';
 function App() {
   return (
     <div className="App">
-      <Card cardTitle="Hello" cardBody="React Component"  cardFooter="react-assignment" />
+      <Card cardTitle="Hello" cardBody="React Component"  cardFooter="react-assignment2" />
     </div>
   );
 }
